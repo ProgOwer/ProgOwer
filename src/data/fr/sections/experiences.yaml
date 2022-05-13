@@ -1,0 +1,60 @@
+# Experiences Section information
+section:
+  name: Expériences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+experiences:
+- company:
+    name: Stellantis
+    url: https://www.stellantis.com/en
+    location: Bessoncourt
+    overview: TODO Présentation Entreprise
+  positions:
+  - designation: Alternance dans le service des opérations
+    start: 02 Sept 2019
+    end: 31 Aout 2022
+    responsibilities:
+    - Migration d'une application (CHKEXP) d'un Cloud interne vers un Cloud externe.
+    - Refactorisation d'une application (CHKEXP) avec les dernières technologies et normes.
+    - Réalisation de système d'intégration et de déploiement automatisés.
+    - Réalisation d'une étude de migration.
+    - Partage des connaissances et réalisation de documentations diverses.
+- company:
+    name: GoodYear
+    url: https://www.goodyear.com/en-US/international?expand=international
+    location: Amiens
+    overview: TODO Présentation Entreprise
+  positions:
+  - designation: Travail d'été dans le service informatique
+    start: 24 Juin 2019
+    end: 30 Aout 2019
+    responsibilities:
+    - Programmation d'une application web (Request Center) pour la gestion centralisée des demandes.
+    - Programmation d'une application web (Printer Stock) pour la gestion des consommables d'imprimantes.
+    - Programmation d'une application web (Mold Center) pour la gestion des moules.
+- company:
+    name: Laboratoire des Technologies Innovantes (LTI)
+    url: http://lti-picardie.fr/
+    location: Amiens
+    overview: TODO Présentation Entreprise
+  positions:
+  - designation: Stage du DUT
+    start: 01 Avril 2019
+    end: 21 Juin 2019
+    responsibilities:
+    - Conception d'une infrastructure serveur pour le traitement d'algorithmes décisionnels.
+    - Réalisation d'une API web pour permettre le traitement d'algorithmes décisionnels.
+- company:
+    name: GoodYear
+    url: https://www.goodyear.com/en-US/international?expand=international
+    location: Amiens
+    overview: TODO Présentation Entreprise
+  positions:
+  - designation: Stage de dernière année de collège au sein du service informatique
+    start: 2014
+    end: 2014

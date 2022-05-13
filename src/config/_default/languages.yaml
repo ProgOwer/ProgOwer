@@ -1,0 +1,7 @@
+# Languages Config
+en:
+  languageName: "English"
+  weight: 1
+fr:
+  languageName: "Français"
+  weight: 2

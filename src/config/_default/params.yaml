@@ -1,0 +1,9 @@
+# Global Parameters
+enableBlogPost: false
+enableTOC: false
+newsletter:
+  enable: false
+logo:
+  main: images/icon.png
+  inverted: images/icon.png
+  favicon: images/favicon.png

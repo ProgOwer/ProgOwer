@@ -1,0 +1,15 @@
+name: "ProgOwer"
+nickname: "ProgOwer"
+greeting: "Salut, Je suis"
+image: "images/icon.png"
+
+contactInfo:
+  email: "progower0770@gmail.com"
+
+summary:
+- Je suis un futur ingénieur
+- Je suis un développeur
+- J'adore le Cloud
+- J'adore Docker
+- J'adore créer des projets
+- Vive l'informatique

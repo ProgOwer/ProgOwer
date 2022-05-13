@@ -1,0 +1,51 @@
+# Education Section information
+section:
+  name: Formations
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Diplôme d'ingénierie des systèmes d'information en alternance
+  icon: fa-graduation-cap
+  timeframe: 2019-2022
+  institution:
+    name: Université de Technologie de Belfort Montbéliard (UTBM)
+    url: https://www.utbm.fr/
+- name: DUT Informatique
+  icon: fa-building-columns
+  timeframe: 2017-2019
+  institution:
+    name: IUT d'Amiens, département Informatique
+    url: https://www.iut-amiens.fr/informatique/
+  extracurricularActivities:
+  - Participation aux 24h des IUT Informatique 2019 au Havre au sein d’une équipe (WhileNotFalse) pour représenter l’IUT Informatique d’Amiens.
+  - Présentation du jeu réalisé Escape The Vessel au stand de l’IUT Informatique au salon du jeu et du chocolat à Amiens.
+  - Participation au forum de l’étudiant à Amiens pour représenter l’IUT Informatique.
+  - Présentation du jeu réalisé Escape The Vessel au stand de l’IUT Informatique à la Nuit Intergalactique à la bibliothèque d’Amiens.
+  - Challenge par équipe à la Night Code organisée par l’entreprise Iteracode autour d’un projet informatique commun (19h - 7h).
+- name: Bac STI2D spécialité SIN (Systèmes d’Information et Numérique)
+  icon: fa-school
+  timeframe: 2014-2017
+  institution:
+    name: Lycée Saint Riquier à Amiens
+    url: http://www.saintriquier.com/lycee_technologique.html
+  grade:
+    scale: Mention
+    achieved: Très Bien
+    outOf: Amiens
+- name: Brevet des collèges
+  icon: fa-school
+  timeframe: 2010-2014
+  institution:
+    name: Collège Sainte Colette à Corbie
+    url: https://www.enseignement-prive.info/fiche/college-prive-sainte-colette-corbie/ET080-64
+  # publications: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   url: "#"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"

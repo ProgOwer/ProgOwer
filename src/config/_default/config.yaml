@@ -1,0 +1,10 @@
+baseURL: "http://localhost:1313/"
+theme: "toha"
+title: "ProgOwer"
+
+# Multi Languages Support
+languageCode: "fr-fr"
+defaultContentLanguage: fr
+
+# Plugins
+enableEmoji: true

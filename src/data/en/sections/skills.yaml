@@ -1,0 +1,14 @@
+# Skills Section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # hideTitle: true
+
+skills:
+- name: Kubernetes
+  logo: "/images/icon.png"
+  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  url: "https://kubernetes.io/"
