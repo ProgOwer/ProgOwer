@@ -30,6 +30,8 @@ This Website is built with [Hugo Framework](https://gohugo.io/) and [Toha Theme]
 - **Production (Local)** :
   - [ProgOwer Production](http://localhost:8008)
 - **Production** :
+  - [ProgOwer Production (GitLab)](https://progower.gitlab.io/progower/)
+  - [ProgOwer Production (GitHub)](https://progower.github.io/progower/)
   - [ProgOwer Production (Netlify)](https://progower)
 
 ## Getting Started
