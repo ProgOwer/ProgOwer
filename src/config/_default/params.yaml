@@ -3,6 +3,7 @@ enableBlogPost: false
 enableTOC: false
 newsletter:
   enable: false
+background: images/default-background.jpg
 logo:
   main: images/icon.png
   inverted: images/icon.png
