@@ -13,7 +13,6 @@
   - [Getting Started](#getting-started)
     - [Requirements](#requirements)
     - [Build](#build)
-    - [Environment Variables](#environment-variables)
     - [Deploy](#deploy)
   - [Documentations](#documentations)
   - [Licence](#licence)
@@ -22,46 +21,29 @@
 
 My Public Personal Data.
 
+This Website is built with [Hugo Framework](https://gohugo.io/) and [Toha Theme](https://themes.gohugo.io/themes/toha/).
+
 ## Access
 
 - **Development (Local)** :
-  - [ProgOwer Development](http://localhost)
+  - [ProgOwer Development](http://localhost:1313)
 - **Production (Local)** :
-  - [ProgOwer Production](http://localhost)
+  - [ProgOwer Production](http://localhost:8008)
 - **Production** :
-  - [ProgOwer Production (GitLab)](https://progower)
-  - [ProgOwer Production (GitHub)](https://progower)
+  - [ProgOwer Production (Netlify)](https://progower)
 
 ## Getting Started
 
-If you use the **classic** way, just clone this repository, build it and deploy it.
-
-If you use the **Docker** way, here a sample of Docker Compose file : **docker-compose.yml**
-
-```yaml
-TODO
-```
+1) You need to install or setup the [Requirements](#requirements)
+2) [Build](#build) with Docker
+3) Finally [Deploy](#deploy) with Docker
 
 ### Requirements
-
-If you use the **classic** way :
-
-- TODO
-
-If you use the **Docker** way :
 
 - Docker
 - Docker Compose
 
 ### Build
-
-If you use the **classic** way :
-
-```bash
-TODO
-```
-
-If you use the **Docker** way :
 
 ```bash
 # Development
@@ -71,22 +53,7 @@ docker-compose -f docker-compose.dev.yml build
 docker-compose build
 ```
 
-### Environment Variables
-
-| Parameter | Value Example | Description |
-|-|-|-|
-| PARAM | TODO | TODO Description |
-|  |  |  |
-
 ### Deploy
-
-If you use the **classic** way :
-
-```bash
-TODO
-```
-
-If you use the **Docker** way :
 
 ```bash
 # Development
@@ -100,6 +67,11 @@ docker-compose up
 
 - [Ideas](./docs/ideas.md)
 - [Commands](./docs/commands.md)
+- [Toha Documentations](https://toha-guides.netlify.app/)
+- **Custom Git Badges** :
+  - [Shields](https://shields.io/)
+  - [Badgen](https://badgen.net/)
+  - [Tutorial 001](https://css-tricks.com/adding-custom-github-badges-to-your-repo/)
 
 ## Licence
 

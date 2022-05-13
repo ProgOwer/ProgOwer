@@ -1,5 +1,9 @@
 # ProgOwer
 
+![Icon](./icon.png)
+
 TODO
 
-Here are the [Frontend](./frontend.md) Documentations.
+## Personal Website
+
+Here are the [Frontend](./frontend.md) Documentations for the CV website.
