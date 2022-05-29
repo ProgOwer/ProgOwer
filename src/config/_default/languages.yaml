@@ -1,7 +1,7 @@
 # Languages Config
-en:
-  languageName: "English"
-  weight: 1
 fr:
   languageName: "Français"
-  weight: 2
+  weight: 1
+# en:
+#   languageName: "English"
+#   weight: 2

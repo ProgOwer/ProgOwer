@@ -13,7 +13,10 @@ experiences:
     name: Stellantis
     url: https://www.stellantis.com/en
     location: Bessoncourt
-    overview: TODO Présentation Entreprise
+    overview: |
+      Stellantis est un grand groupe de l'automobile, lorsque je suis arrivé, le groupe était encore
+      PSA, maintenant tout est beaucoup plus grand. J'ai fait partie d'une superbe équipe avec les objectifs
+      d'établir et de faire respecter les notions importantes de l'informatiques.
   positions:
   - designation: Alternance dans le service des opérations
     start: 02 Sept 2019
@@ -28,7 +31,10 @@ experiences:
     name: GoodYear
     url: https://www.goodyear.com/en-US/international?expand=international
     location: Amiens
-    overview: TODO Présentation Entreprise
+    overview: |
+      GoodYear est une grande entreprise qui concoit des pneumatiques, j'ai fait partie d'une très bonne
+      équipe au sein du service informatique durant tout un été pour développer des applications web afin
+      d'aider les différents services de l'usine à travailler dans les meilleurs conditions.
   positions:
   - designation: Travail d'été dans le service informatique
     start: 24 Juin 2019
@@ -41,7 +47,11 @@ experiences:
     name: Laboratoire des Technologies Innovantes (LTI)
     url: http://lti-picardie.fr/
     location: Amiens
-    overview: TODO Présentation Entreprise
+    overview: |
+      Le LTI est le laboratoire de l'IUT d'Amiens, j'ai été invité à les rejoindre pour mon stage de deuxième
+      année lors de ma première année. Avec eux et une équipe de stagière très doués, nous avons mis au point
+      le nécessaire pour utiliser de nouvelles technologies et leur offrir les moyens les plus efficace pour
+      leur travail de recherche et de test dans le domaine des algorithmes décisionnels.
   positions:
   - designation: Stage du DUT
     start: 01 Avril 2019
@@ -53,7 +63,10 @@ experiences:
     name: GoodYear
     url: https://www.goodyear.com/en-US/international?expand=international
     location: Amiens
-    overview: TODO Présentation Entreprise
+    overview: |
+      GoodYear est une grande entreprise qui concoit des pneumatiques, j'ai eu la chance d'intégrer le service
+      informatique durant mon stage afin d'observer comment l'informatique fonctionne au sein de l'usine, cela m'a
+      permit de confirmer mon orientation vers l'informatique.
   positions:
   - designation: Stage de dernière année de collège au sein du service informatique
     start: 2014

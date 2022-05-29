@@ -13,12 +13,27 @@ designation: Software Engineer
 #   url: "https://www.example.com"
 
 # Resume in the "static" directory
-resume: "files/cv_en_default.pdf"
+resume: "files/cv_fr_default.pdf"
 
 summary: |
-  TODO
+  Je suis un passionné d'informatique, surtout dans le domaine du développement web
+  et de l'infrastructure, j'aime apprendre de nouvelles notions et les appliquer dans
+  des projets par la suite. Je m'organise en mode projet dans pratiquement toute mes
+  activités que ce soit seul ou à plusieurs.
+  Voici mes divers hobbies :
+  - Organisation de soirée avec des amis sur divers thèmes.
+  - Veille technologique et mise à jour de mes connaissances en informatique.
+  - Réalisation de projets seul ou en équipe sur divers thèmatique en informatique (principalement infrastructure et développement web).
+  - Pratique de la natation pour la plaisir.
+  - Culture japonaise (médias divers, et gastronomie).
 
 socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "progower0770@gmail.com"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/leo-debuigny-21a117240/"
 - name: GitLab
   icon: "fab fa-gitlab"
   url: "https://gitlab.com/ProgOwer"
@@ -28,38 +43,39 @@ socialLinks:
 
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: UTBM Linguaskill
+  url: "files/utbm_english.pdf"
+  badge: "images/cambridge.png"
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Diplôme IUT
+  url: "files/iut_diploma.pdf"
+  badge: "images/iut_amiens.png"
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Diplôme BAC
+  url: "files/bac_diploma.pdf"
+  badge: "images/bac.png"
+# Color available : green / blue / orange / yellow / pink / sky
 - type: soft-skill-indicator
-  name: Leadership
+  name: Chef de projet
   percentage: 100
   color: green
 - type: soft-skill-indicator
-  name: Team Work
+  name: Travail en équipe
   percentage: 100
   color: blue
 - type: soft-skill-indicator
-  name: Problem Resolution
+  name: Résolution de problème
   percentage: 100
   color: orange
 - type: soft-skill-indicator
-  name: Leadership
+  name: Organisation et Planification
   percentage: 100
   color: yellow
 - type: soft-skill-indicator
-  name: Team Work
+  name: Savoir vivre
   percentage: 100
   color: pink
 - type: soft-skill-indicator
-  name: Problem Resolution
+  name: Ouverture d'esprit
   percentage: 100
   color: sky
