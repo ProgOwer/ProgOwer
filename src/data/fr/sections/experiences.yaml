@@ -14,44 +14,50 @@ experiences:
     url: https://www.stellantis.com/en
     location: Bessoncourt
     overview: |
-      Stellantis est un grand groupe de l'automobile, lorsque je suis arrivé, le groupe était encore
-      PSA, maintenant tout est beaucoup plus grand. J'ai fait partie d'une superbe équipe avec les objectifs
-      d'établir et de faire respecter les notions importantes de l'informatiques.
+      Stellantis est un grand groupe de l'automobile, lorsque je suis arrivé, le groupe s'appelait encore
+      PSA, maintenant le groupe s'est largement développé. J'ai fait partie d'une équipe avec les objectifs
+      d'établir et de faire respecter les notions importantes de l'informatique et de l'entreprise.
   positions:
   - designation: Alternance dans le service des opérations
     start: 02 Sept 2019
     end: 31 Aout 2022
     responsibilities:
-    - Migration d'une application (CHKEXP) d'un Cloud interne vers un Cloud externe.
-    - Refactorisation d'une application (CHKEXP) avec les dernières technologies et normes.
-    - Réalisation de système d'intégration et de déploiement automatisés.
-    - Réalisation d'une étude de migration.
+    - |
+      Migration d'une application d'un Cloud interne vers un Cloud externe (AWS) :
+      - Etude de migration.
+      - Mise à niveau avec le respect des principes du Cloud Native.
+      - Utilisation de l'Infra As Code versionnée.
+    - Refactorisation d'une application avec les dernières technologies et normes.
+    - Réalisation de systèmes d'intégration et de déploiement automatisés.
     - Partage des connaissances et réalisation de documentations diverses.
+    - Formation et accompagnement d'un alternant.
+
 - company:
     name: GoodYear
     url: https://www.goodyear.com/en-US/international?expand=international
     location: Amiens
     overview: |
-      GoodYear est une grande entreprise qui concoit des pneumatiques, j'ai fait partie d'une très bonne
-      équipe au sein du service informatique durant tout un été pour développer des applications web afin
-      d'aider les différents services de l'usine à travailler dans les meilleurs conditions.
+      GoodYear est une grande entreprise qui conçoit des pneumatiques, j'ai fait partie de
+      l'équipe du service informatique durant tout un été pour développer des applications web afin
+      d'aider les différents services de l'usine à travailler dans les meilleures conditions.
   positions:
   - designation: Travail d'été dans le service informatique
     start: 24 Juin 2019
     end: 30 Aout 2019
     responsibilities:
-    - Programmation d'une application web (Request Center) pour la gestion centralisée des demandes.
+    - Programmation d'une application web (Request Center) pour la gestion centralisée des demandes de dérogations.
     - Programmation d'une application web (Printer Stock) pour la gestion des consommables d'imprimantes.
-    - Programmation d'une application web (Mold Center) pour la gestion des moules.
+    - Programmation d'une application web (Mold Center) pour la gestion des moules de cuisson.
+
 - company:
     name: Laboratoire des Technologies Innovantes (LTI)
     url: http://lti-picardie.fr/
     location: Amiens
     overview: |
-      Le LTI est le laboratoire de l'IUT d'Amiens, j'ai été invité à les rejoindre pour mon stage de deuxième
-      année lors de ma première année. Avec eux et une équipe de stagière très doués, nous avons mis au point
-      le nécessaire pour utiliser de nouvelles technologies et leur offrir les moyens les plus efficace pour
-      leur travail de recherche et de test dans le domaine des algorithmes décisionnels.
+      Le LTI est le laboratoire de l'IUT d'Amiens, j'ai été sélectionné pour mon stage de deuxième année.
+      Avec le LTI et une équipe de stagiaires, nous avons déterminé l'infrastructure permettant
+      d'utiliser de nouvelles technologies avec les moyens les plus efficaces pour
+      les travaux de recherche et de tests dans le domaine des algorithmes décisionnels.
   positions:
   - designation: Stage du DUT
     start: 01 Avril 2019
@@ -59,14 +65,15 @@ experiences:
     responsibilities:
     - Conception d'une infrastructure serveur pour le traitement d'algorithmes décisionnels.
     - Réalisation d'une API web pour permettre le traitement d'algorithmes décisionnels.
+
 - company:
     name: GoodYear
     url: https://www.goodyear.com/en-US/international?expand=international
     location: Amiens
     overview: |
-      GoodYear est une grande entreprise qui concoit des pneumatiques, j'ai eu la chance d'intégrer le service
-      informatique durant mon stage afin d'observer comment l'informatique fonctionne au sein de l'usine, cela m'a
-      permit de confirmer mon orientation vers l'informatique.
+      GoodYear est une grande entreprise qui conçoit des pneumatiques, j'ai eu la chance d'intégrer le service
+      informatique durant mon stage afin d'observer comment ce service fonctionne au sein de l'usine, cela m'a
+      permis de me conforter à vouloir travailler dans l'informatique.
   positions:
   - designation: Stage de dernière année de collège au sein du service informatique
     start: 2014

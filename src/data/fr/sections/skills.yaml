@@ -15,129 +15,155 @@ skills:
     migration d'une application d'un Cloud privé à AWS.
     (Réalisation des formations Cloud Practitioner Essentials et Architecting)
   url: "https://aws.amazon.com/fr/"
+
 - name: Ansible
   logo: "/images/skills/ansible.png"
   summary: |
     Notions avec Ansible pour de l'automatisation (Playbook et Ansible Tower / AWX).
   url: "https://www.ansible.com/"
+
 - name: VirtualBox
   logo: "/images/skills/virtualbox.png"
   summary: |
     Maîtrise de VirtualBox pour la réalisation de machines virtuelles.
   url: "https://www.virtualbox.org/"
+
 - name: TrueNAS
   logo: "/images/skills/truenas.png"
   summary: |
     Maîtrise de TrueNAS Scale (anciennement FreeNAS) pour la réalisation
-    de serveur de stockage.
+    de serveurs de stockage.
   url: "https://www.truenas.com/"
+
 - name: OpenMediaVault
   logo: "/images/skills/omv.png"
   summary: |
-    Maîtrise d'OpenMediaVault pour la réalisation de serveur de stockage sous processeur ARM.
+    Maîtrise d'OpenMediaVault pour la réalisation de serveurs de stockage sous processeur ARM.
   url: "https://www.openmediavault.org/"
+
 - name: Docker
   logo: "/images/skills/docker.png"
   summary: |
     Maîtrise de Docker, Docker Compose et Docker Swarm.
   url: "https://www.docker.com/"
+
 - name: Kubernetes
   logo: "/images/skills/kubernetes.png"
   summary: |
     Notions avec Kubernetes et Rancher.
   url: "https://kubernetes.io/"
+
 - name: Linux
   logo: "/images/skills/linux.jpeg"
   summary: |
     Maîtrise de Linux avec les distributions Debian et Ubuntu ainsi que
     les bases du Bash
     (Utilisation de Linux Mint comme système principal au quotidien).
+
 - name: Git
   logo: "/images/skills/git.png"
   summary: |
     Maîtrise de Git et utilisation de divers hébergeurs (GitLab, GitHub et Gitea).
   url: "https://git-scm.com/"
+
 - name: CI / CD
   logo: "/images/skills/ci_cd.png"
   summary: |
-    Maîtrise de plusieurs système d'intégration et de déploiement continue
+    Maîtrise de plusieurs systèmes d'intégration et de déploiement continus
     (GitLab CI, GitHub Action, Drone, TeamCity).
   url: "https://git-scm.com/"
+
 - name: Bases de données SQL
   logo: "/images/skills/sql.png"
   summary: |
-    Maîtrise de plusieurs bases de données SQL (PostgreSQL, Oracle, MariaDB, MySQL)
+    Maîtrise de bases de données SQL (PostgreSQL, Oracle, MariaDB, MySQL)
     et de leurs outils (PGAdmin4, SQL Developer, ADMiner, PHPMyAdmin).
+
 - name: Bases de données NoSQL
   logo: "/images/skills/sql.png"
   summary: |
-    Notions dans plusieurs bases de données NoSQL (MongoDB, DynamoDB)
+    Notions dans des bases de données NoSQL (MongoDB, DynamoDB)
     et de leurs outils (Mongo Express, DynamoDB Admin).
+
 - name: Cache
   logo: "/images/skills/redis.png"
   summary: |
     Notions avec le cache Redis.
+
 - name: Python
   logo: "/images/skills/python.png"
   summary: |
     Maîtrise de Python sous forme de script ou avec les frameworks FastAPI
     (Réalisation d'API REST), Django ou Flask.
   url: "https://www.python.org/"
+
 - name: JavaScript TypeScript
   logo: "/images/skills/ts.png"
   summary: |
     Maîtrise du JavaScript et du TypeScript avec les frameworks VueJS (CSS avec Vuetify),
     notions en React (React Admin) et Angular.
   url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+
 - name: PHP
   logo: "/images/skills/php.png"
   summary: |
     Maîtrise du PHP et notions avec les frameworks Symfony et CakePHP.
   url: "https://www.php.net/"
+
 - name: C++
   logo: "/images/skills/cpp.png"
   summary: |
-    Maîtrise du C++ et réalisation d'interface graphique avec le framework Qt.
+    Maîtrise du C++ et réalisation d'interfaces graphiques avec le framework Qt.
   url: "https://www.qt.io/"
+
 - name: Java
   logo: "/images/skills/java.png"
   summary: |
     Maîtrise du Java et notions avec le framework Quarkus.
   url: "https://www.java.com/fr/"
+
 - name: Frameworks CSS
   logo: "/images/skills/css.png"
   summary: |
     Maîtrise des frameworks CSS Materialize, Bootstrap,
     Material Design (Vuetify principalement).
-  url: "TODO"
+
 - name: Autres Langages de programmations
   summary: |
     Notions en C, C#, Godot Script, Rust, Go, R, MatLab, Visual Basic.
+
 - name: Base du Web
   logo: "/images/skills/html.png"
   summary: |
     Maîtrise du HTML et CSS pour la mise en page web.
+
 - name: Visual Studio Code
   logo: "/images/skills/vs_code.png"
   summary: |
     Utilisation de l'éditeur VS Code pour la programmation.
   url: "https://code.visualstudio.com/"
+
 - name: LaTeX
   summary: |
     Utilisation du LaTeX pour la réalisation de rapports.
+
 - name: Markdown
   logo: "/images/skills/markdown.png"
   summary: |
     Utilisation du Markdown pour la réalisation de documentations diverses.
     Maîtrise des frameworks web Hugo et Docsify.
+
 - name: Anglais
   logo: "/images/skills/en.png"
   summary: |
-    Niveau B2 Linguaskill Business et divers séjours linguistiques.
+    Niveau B2 Linguaskill Business.
+  url: "/files/utbm_english.pdf"
+
 - name: Espagnol
   logo: "/images/skills/es.png"
   summary: |
-    Niveau A2 et séjours linguistiques.
+    Niveau A2.
+
 - name: Japonais
   logo: "/images/skills/jp.png"
   summary: |

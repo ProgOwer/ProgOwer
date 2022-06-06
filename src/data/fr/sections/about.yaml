@@ -18,27 +18,30 @@ resume: "files/cv_fr_default.pdf"
 summary: |
   Je suis un passionné d'informatique, surtout dans le domaine du développement web
   et de l'infrastructure, j'aime apprendre de nouvelles notions et les appliquer dans
-  des projets par la suite. Je m'organise en mode projet dans pratiquement toute mes
+  des projets par la suite. Je m'organise en mode projet dans pratiquement toutes mes
   activités que ce soit seul ou à plusieurs.
   Voici mes divers hobbies :
-  - Organisation de soirée avec des amis sur divers thèmes.
   - Veille technologique et mise à jour de mes connaissances en informatique.
-  - Réalisation de projets seul ou en équipe sur divers thèmatique en informatique (principalement infrastructure et développement web).
-  - Pratique de la natation pour la plaisir.
+  - Réalisation de projets seul ou en équipe sur diverses thèmatiques en informatique (principalement infrastructure et développement web).
+  - Organisation de soirées avec des amis sur divers thèmes.
+  - Pratique de la natation pour le plaisir.
   - Culture japonaise (médias divers, et gastronomie).
 
 socialLinks:
 - name: Email
-  icon: "fas fa-envelope"
+  icon: "fas fa-lg fa-envelope"
   url: "progower0770@gmail.com"
+
 - name: LinkedIn
-  icon: "fab fa-linkedin"
+  icon: "fab fa-lg fa-linkedin"
   url: "https://www.linkedin.com/in/leo-debuigny-21a117240/"
+
 - name: GitLab
-  icon: "fab fa-gitlab"
+  icon: "fab fa-lg fa-gitlab"
   url: "https://gitlab.com/ProgOwer"
+
 - name: Github
-  icon: "fab fa-github"
+  icon: "fab fa-lg fa-github"
   url: "https://github.com/ProgOwer"
 
 badges:
@@ -46,35 +49,43 @@ badges:
   name: UTBM Linguaskill
   url: "files/utbm_english.pdf"
   badge: "images/cambridge.png"
+
 - type: certification
   name: Diplôme IUT
   url: "files/iut_diploma.pdf"
   badge: "images/iut_amiens.png"
+
 - type: certification
   name: Diplôme BAC
   url: "files/bac_diploma.pdf"
   badge: "images/bac.png"
 # Color available : green / blue / orange / yellow / pink / sky
+
 - type: soft-skill-indicator
   name: Chef de projet
   percentage: 100
   color: green
+
 - type: soft-skill-indicator
   name: Travail en équipe
   percentage: 100
   color: blue
+
 - type: soft-skill-indicator
-  name: Résolution de problème
+  name: Résolution de problèmes
   percentage: 100
   color: orange
+
 - type: soft-skill-indicator
   name: Organisation et Planification
   percentage: 100
   color: yellow
+
 - type: soft-skill-indicator
-  name: Savoir vivre
+  name: Savoir-vivre
   percentage: 100
   color: pink
+
 - type: soft-skill-indicator
   name: Ouverture d'esprit
   percentage: 100

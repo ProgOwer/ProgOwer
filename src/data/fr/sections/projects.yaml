@@ -11,20 +11,413 @@ buttons:
 - name: All
   filter: "all"
 - name: Entreprise
-  filter: "entreprise"
+  filter: "Enterprise"
 - name: Académique
-  filter: "académique"
+  filter: "School"
 - name: Perso
-  filter: "perso"
+  filter: "Self"
 
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Owner
-  timeline: "March 2018 - Present"
-  # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  repo: https://github.com/kubernetes/kubernetes
-  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  # url: ""
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+- name: Projets Stellantis
+  role: Groupe de 2
+  timeline: "Septembre 2019 - Aout 2022"
+  summary: |
+    Application web qui permet de lancer la génération de rapports d'audit sur l'exploitation
+    d'une application et de le visualiser sous différentes formes par la suite.
+  tags: ["Enterprise", "Cloud", "Web"]
+
+- name: Request Center
+  logo: /images/projects/request_center.png
+  role: Auteur
+  timeline: "Juin 2019 - Aout 2019"
+  summary: |
+    Application web pour la gestion centralisée des demandes de dérogations.
+  tags: ["Enterprise", "Web"]
+
+- name: Printer Stock
+  role: Auteur
+  timeline: "Juin 2019 - Aout 2019"
+  summary: |
+    Application web pour la gestion des consommables d'imprimantes.
+  tags: ["Enterprise", "Web"]
+
+- name: Mold Center
+  role: Auteur
+  timeline: "Juin 2019 - Aout 2019"
+  summary: |
+    Application web pour la gestion des moules de cuisson.
+  tags: ["Enterprise", "Web"]
+
+- name: Projet LTI
+  role: Auteur
+  timeline: "Avril 2019 - Juin 2019"
+  summary: |
+    Réalisation d'une infrastructure serveur et d'outils web pour traiter des
+    algorithmes décisionnels.
+  tags: ["Enterprise", "Infrastructure", "Cloud", "Web"]
+
+
+- name: Cellarium
+  logo: /images/projects/cellarium.png
+  role: Groupe de 6
+  timeline: "Octobre 2021 - Janvier 2022"
+  url: https://gitlab.com/cellarium
+  summary: |
+    Projet web lors du dernier semestre à l'UTBM pour créer un outil de gestion de stock
+    de nourriture ainsi qu'une aide pour réaliser les courses.
+  tags: ["School", "Cloud", "Web"]
+
+- name: UTBM Time
+  logo: /images/projects/utbm_time.png
+  role: Auteur
+  timeline: "Septembre 2021 - Janvier 2022"
+  url: https://gitlab.com/utbm_progower/utbm_time
+  summary: |
+    Projet web pour convertir le planning UTBM en version web lisible sur pc et mobile avec
+    la possibilité de merger l'emploi du temps de plusieurs utilisateurs pour planifier plus
+    facilement des réunions à plusieurs.
+  tags: ["School", "Cloud", "Web"]
+
+- name: Sales Module
+  logo: /images/projects/sales_module.png
+  role: Groupe de 6
+  timeline: "Avril 2021 - Juin 2021"
+  url: https://gitlab.com/t04_ta70
+  summary: |
+    Projet web pour gérer les ventes d'une application web composée de plusieurs parties.
+  tags: ["School", "Cloud", "Web"]
+
+- name: Ant Farm Simulation
+  logo: /images/projects/ant_farm_simulation.png
+  role: Groupe de 2
+  timeline: "Avril 2021 - Juin 2021"
+  url: https://utbm_progower.gitlab.io/lp73_ant_farm_simulation/#/
+  summary: |
+    Simulateur d'une fourmilière en C++ avec une interface graphique en Qt.
+  tags: ["School", "Qt", "C++"]
+
+- name: Beer404
+  logo: /images/projects/beer404.png
+  role: Groupe de 3
+  timeline: "2020"
+  summary: |
+    Projet web de gestion d'événements.
+  tags: ["School", "Cloud", "Web"]
+
+- name: Rails et Angular
+  role: Auteur
+  timeline: "2020"
+  summary: |
+    Projet web de découverte de Rails et d'Angular.
+  tags: ["School", "Cloud", "Web"]
+
+- name: Food Wars
+  logo: /images/projects/food_wars.png
+  role: Groupe de 2
+  timeline: "Novembre 2019 - Novembre 2019"
+  summary: |
+    Gestionnaire de nourriture, courses et recettes en Java avec une interface
+    graphique avec JavaFX.
+  tags: ["School", "Java"]
+
+- name: C Process Manager
+  logo: /images/projects/c_process_manager.png
+  role: Groupe de 2
+  timeline: "Novembre 2019 - Novembre 2019"
+  summary: |
+    Projet qui doit reproduire le comportement de l'algorithme d'ordonnancement de processus
+    qui s'appuie sur le modèle du Round Robin en C.
+  tags: ["School", "C"]
+
+- name: MediaFireGhost
+  logo: /images/projects/mediafireghost.png
+  role: Auteur
+  timeline: "Novembre 2019 - Novembre 2019"
+  summary: |
+    Outil de gestion de médiathèque personnelle où chaque utilisateur peut gérer sa liste
+    de média (Films, séries, animes, ...).
+  tags: ["School", "Web"]
+
+
+- name: Color Memory
+  logo: /images/projects/color_memory.png
+  role: Groupe de 2
+  timeline: "2019"
+  summary: |
+    Jeux SIMON à réaliser sous forme d'application Android.
+  tags: ["School", "Android"]
+
+- name: Mastermind
+  role: Groupe de 2
+  timeline: "2019"
+  summary: |
+    Jeux Mastermind à écrire en C#.
+  tags: ["School", "C#"]
+
+- name: The Phantom Society
+  role: Groupe de 4
+  timeline: "2018"
+  summary: |
+    Jeux de plateau à transcrire en C# avec une interface graphique et une IA.
+  tags: ["School", "C#"]
+
+- name: Escape The Vessel
+  logo: /images/projects/escape_the_vessel.png
+  role: Groupe de 6
+  timeline: "2018"
+  summary: |
+    Escape-game avec un temps limité dans un vaisseau spatial avec des énigmes pour
+    ouvrir différentes portes dans le but de s'échapper de ce dernier via un module de sauvetage.
+    Jeux réalisé en Godot Script et présenté à certains événements.
+  tags: ["School", "Godot"]
+
+
+- name: Jardin Educatif
+  role: Groupe de 5
+  timeline: "2017"
+  summary: |
+    Projet mélangeant électronique et application android pour sensibiliser les enfants à
+    prendre soin de l'environnement, l'objectif consiste à gérer des plantes avec divers
+    capteurs ainsi qu'un système de photos automatiques pour obtenir une chronologie.
+  tags: ["School", "Electronic", "Android"]
+
+
+- name: ProgOwer
+  logo: /images/icon.png
+  role: Auteur
+  timeline: "Janvier 2022 - Aujourd'hui"
+  url: https://progower.gitlab.io/progower/
+  summary: |
+    Projet personnel pour héberger un site CV.
+  tags: ["Self", "Cloud", "Web"]
+
+- name: ProgOwer Projects
+  logo: /images/icon.png
+  role: Auteur
+  timeline: "Janvier 2022 - Aujourd'hui"
+  url: https://progower.gitlab.io/progower_projects
+  summary: |
+    Projet personnel pour héberger un site technique.
+  tags: ["Self", "Cloud", "Web"]
+
+- name: Server Build
+  logo: /images/projects/server_build.png
+  role: Auteur
+  timeline: "Mai 2022 - Aujourd'hui"
+  url: https://proginfra.gitlab.io/server_build/#/
+  summary: |
+    Projet d'aide pour construire un serveur.
+  tags: ["Self", "Cloud", "Infrastructure"]
+
+- name: OpenMediaVault System
+  logo: /images/projects/openmediavault_system.png
+  role: Auteur
+  timeline: "Mai 2022 - Aujourd'hui"
+  url: https://proginfra.gitlab.io/openmediavault_system/#/
+  summary: |
+    Projet d'aide à l'installation et à la configuration de OpenMediaVault.
+  tags: ["Self", "Cloud", "Infrastructure"]
+
+- name: Royal NAS
+  logo: /images/projects/royal_nas.png
+  role: Groupe de 2
+  timeline: "Février 2022 - Aujourd'hui"
+  summary: |
+    Projet de création d'un serveur NAS complet avec TrueNAS, des VM et des
+    Containers.
+  tags: ["Self", "Cloud", "Infrastructure"]
+
+- name: WakeUp
+  logo: /images/projects/wakeup.png
+  role: Auteur
+  timeline: "Janvier 2021 - Mai 2021"
+  summary: |
+    Projet web pour lancer des requêtes WakeOnLan.
+  tags: ["Self", "Cloud", "Web"]
+
+- name: Pinit
+  logo: /images/projects/pinit.png
+  role: Auteur
+  timeline: "Aout 2021"
+  summary: |
+    Projet pour initialiser un Raspberry Pi en mode serveur.
+  tags: ["Self", "Cloud", "Infrastructure"]
+
+- name: PiBase
+  logo: /images/projects/pibase.png
+  role: Auteur
+  timeline: "Aout 2021"
+  summary: |
+    Projet pour initialiser un Raspberry Pi en mode serveur avec une multitude
+    de service.
+  tags: ["Self", "Cloud", "Infrastructure"]
+
+- name: Neon LogBook
+  logo: /images/projects/neon_logbook.png
+  role: Auteur
+  timeline: "2020 - Aujourd'hui"
+  summary: |
+    Projet web de journal de bord.
+  tags: ["Self", "Cloud", "Web"]
+
+- name: PartySearch
+  logo: /images/projects/partysearch.png
+  role: Auteur
+  timeline: "Avril 2022"
+  url: https://progwebapp.gitlab.io/partysearch/
+  summary: |
+    Projet web statique pour référencer des jeux coop et multi avec l'utilisation
+    d'une base de données en YAML.
+  tags: ["Self", "Cloud", "Web"]
+
+- name: Project Idea
+  logo: /images/projects/project_idea.png
+  role: Auteur
+  timeline: "2020 - Aujourd'hui"
+  summary: |
+    Projet web pour gérer et classer les idées de projets.
+  tags: ["Self", "Cloud", "Web"]
+
+- name: Project Status
+  logo: /images/projects/project_status.png
+  role: Auteur
+  timeline: "2020 - Aujourd'hui"
+  summary: |
+    Projet web pour gérer et classer les projets.
+  tags: ["Self", "Cloud", "Web"]
+
+- name: DynTools
+  logo: /images/projects/dyntools.png
+  role: Auteur
+  timeline: "Avril 2022 - Aujourd'hui"
+  url: https://progdevlab.gitlab.io/dyntools/#/
+  summary: |
+    Projet qui regroupe des aides sous divers thèmes.
+  tags: ["Self", "Cloud", "Web"]
+
+- name: Programming Laboratory First
+  logo: /images/projects/programming_laboratory_first.png
+  role: Auteur
+  timeline: "2014 - Aujourd'hui"
+  summary: |
+    Projet qui regroupe divers tests et apprentissage 
+    autour de la programmation.
+  tags: ["Self"]
+
+- name: Infrastructure Laboratory First
+  logo: /images/projects/infrastructure_laboratory_first.png
+  role: Auteur
+  timeline: "2016 - Aujourd'hui"
+  summary: |
+    Projet qui regroupe divers tests et apprentissage 
+    autour de l'infrastructure.
+  tags: ["Self", "Infrastructure"]
+
+- name: Minecraft Laboratory
+  logo: /images/projects/minecraft_laboratory.png
+  role: Auteur
+  timeline: "2014 - Aujourd'hui"
+  summary: |
+    Projet qui regroupe divers tests et apprentissage 
+    autour de Minecraft.
+  tags: ["Self"]
+
+- name: E Sphere Framework
+  logo: /images/projects/e_sphere_framework.png
+  role: Auteur
+  timeline: "2020 - Aujourd'hui"
+  summary: |
+    Projet qui contient un template de projet de base.
+  tags: ["Self", "Cloud"]
+
+- name: InterSecret
+  logo: /images/projects/intersecret.png
+  role: Auteur
+  timeline: "2021 - Aujourd'hui"
+  summary: |
+    Projet web pour afficher des séries d'images pour rassembler
+    un maximum de souvenirs d'un seul coup.
+  tags: ["Self", "Cloud", "Web"]
+
+- name: SteamOnMars
+  logo: /images/projects/steamonmars.png
+  role: Groupe
+  timeline: "2021 - Aujourd'hui"
+  summary: |
+    Ensemble de projets ayant pour objectif de mettre en place un serveur
+    Minecraft à thème avec une limite de temps de jeu chaque semaine.
+  tags: ["Self", "Cloud", "Web"]
+
+- name: DevOps
+  logo: /images/projects/devops.png
+  role: Auteur
+  timeline: "2021"
+  summary: |
+    Projet qui contient le nécessaire pour mettre en place un environnement de
+    développement.
+  tags: ["Self", "Cloud", "Infrastructure"]
+
+- name: Homing
+  logo: /images/projects/homing.png
+  role: Auteur
+  timeline: "2021 - Avril 2022"
+  summary: |
+    Projet qui permet de déployer un mediacenter avec des services de serveur
+    chez soi.
+  tags: ["Self", "Cloud", "Infrastructure"]
+
+- name: Reactior
+  logo: /images/projects/reactior.png
+  role: Auteur
+  timeline: "2020 - 2021"
+  summary: |
+    Projet qui regroupe l'ensemble des services de gestion multimédia.
+  tags: ["Self", "Cloud", "Infrastructure"]
+
+- name: Formatting
+  logo: /images/projects/formatting.png
+  role: Auteur
+  timeline: "2021 - Aujourd'hui"
+  summary: |
+    Projet qui sert de documentation pour organiser des fichiers et un projet.
+  tags: ["Self"]
+
+- name: Nano Storage
+  logo: /images/projects/nano_storage.png
+  role: Auteur
+  timeline: "2021"
+  summary: |
+    Projet qui regroupe le nécessaire pour créer un serveur de stockage basique.
+  tags: ["Self", "Cloud", "Infrastructure"]
+
+- name: Nano Server
+  logo: /images/projects/nano_server.png
+  role: Auteur
+  timeline: "2021"
+  summary: |
+    Projet qui regroupe le nécessaire pour créer un serveur de services ou d'exploitation.
+  tags: ["Self", "Cloud", "Infrastructure"]
+
+- name: Basic Server
+  logo: /images/projects/basic_server.png
+  role: Auteur
+  timeline: "2021"
+  summary: |
+    Projet qui regroupe le nécessaire pour créer un serveur basique pour des calculs.
+  tags: ["Self", "Cloud", "Infrastructure"]
+
+- name: Cluster Cloud
+  logo: /images/projects/cluster_cloud.png
+  role: Auteur
+  timeline: "Avril 2020 - Novembre 2021"
+  summary: |
+    Projet qui regroupe la base pour mettre en place un Cluster serveur Cloud.
+  tags: ["Self", "Cloud", "Infrastructure"]
+
+- name: Absolute Time Control
+  logo: /images/projects/absolute_time_control.png
+  role: Auteur
+  timeline: "2020 - Aujourd'hui"
+  summary: |
+    Projet web pour gérer son temps comme un jeux avec un mélange d'Agile et de Gantt.
+  tags: ["Self", "Cloud", "Web"]

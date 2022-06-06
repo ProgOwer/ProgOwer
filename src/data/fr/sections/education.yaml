@@ -20,180 +20,43 @@ degrees:
     scale: Crédits
     achieved: 199
     outOf: 180
-  takenCourses:
-    showGrades: true
-    courses:
-    - name: Projet de fin d'études en entreprise
-      achieved: 30
-      outOf: 30
-    - name: Machine learning by practice
-      achieved: 6
-      outOf: 6
-    - name: Java entreprise
-      achieved: 4
-      outOf: 4
-    - name: Administration des bases de données
-      achieved: 6
-      outOf: 6
-    - name: Sécurité système et réseaux
-      achieved: 6
-      outOf: 6
-    - name: Projet tutoré troisième année
-      achieved: 6
-      outOf: 6
-    - name: Japonais vrai débutant
-      achieved: 4
-      outOf: 4
-    - name: Management
-      achieved: 4
-      outOf: 4
-    - name: Entrepreneuriat
-      achieved: 2
-      outOf: 2
-    - name: Aide à la décision et recherche opérationnelle
-      achieved: 3
-      outOf: 3
-    - name: Langages et programmation orientée objet niveau 2
-      achieved: 3
-      outOf: 3
-    - name: Interface homme-machine
-      achieved: 3
-      outOf: 3
-    - name: Méthodes et outils du génie logiciel
-      achieved: 3
-      outOf: 3
-    - name: Projet tutoré deuxième année
-      achieved: 3
-      outOf: 3
-    - name: Projet de deuxième année en entreprise
-      achieved: 30
-      outOf: 30
-    - name: Business English
-      achieved: 3
-      outOf: 3
-    - name: Knowledge management
-      achieved: 1
-      outOf: 1
-    - name: L'assertivité dans son environnement professionnel
-      achieved: 2
-      outOf: 2
-    - name: Statistiques pour l'ingénieur niveau II
-      achieved: 3
-      outOf: 3
-    - name: Fondements théoriques de l'informatique
-      achieved: 4
-      outOf: 4
-    - name: Réseaux et cybersécurité
-      achieved: 4
-      outOf: 4
-    - name: Intelligence économique et entrepôt de données
-      achieved: 3
-      outOf: 3
-    - name: Anglais pratique et examen international
-      achieved: 3
-      outOf: 3
-    - name: Droit des sociétés
-      achieved: 1
-      outOf: 1
-    - name: Gestion financière
-      achieved: 2
-      outOf: 2
-    - name: Multimédia et applications Internet
-      achieved: 5
-      outOf: 5
-    - name: Fondements en algèbre et analyse niveau II
-      achieved: 3
-      outOf: 3
-    - name: Statistiques pour l'ingenieur niveau I
-      achieved: 2
-      outOf: 2
-    - name: Conception et optimisation des bases de données
-      achieved: 5
-      outOf: 5
-    - name: Interconnexion et routage dans les réseaux
-      achieved: 4
-      outOf: 4
-    - name: Projet de première année en entreprise
-      achieved: 13
-      outOf: 13
-    - name: Anglais niveau II
-      achieved: 3
-      outOf: 3
-    - name: Gestion de projet niveau II
-      achieved: 1
-      outOf: 1
-    - name: Communication appliquée aux situations professionnelles
-      achieved: 2
-      outOf: 2
-    - name: Langages et programmation orientée objet niveau I
-      achieved: 3
-      outOf: 3
-    - name: Fondements en algèbre et analyse niveau I
-      achieved: 3
-      outOf: 3
-    - name: Mathématiques - Remise à niveau
-      achieved: 2
-      outOf: 2
-    - name: Conception des systèmes d'information
-      achieved: 4
-      outOf: 4
-    - name: Architecture des systèmes d'exploitation
-      achieved: 4
-      outOf: 4
-    - name: Architecture des réseaux informatiques
-      achieved: 0
-      outOf: 3
-    - name: Anglais niveau I
-      achieved: 3
-      outOf: 3
-    - name: Gestion de projet niveau I
-      achieved: 1
-      outOf: 1
-    - name: Bases de la communication
-      achieved: 2
-      outOf: 2
   publications:
   - title: Projet Cellarium.
-    url: "TODO"
+    url: "https://gitlab.com/cellarium"
   - title: Projet UTBM Time.
-    url: "TODO"
+    url: "https://gitlab.com/utbm_progower/utbm_time"
   - title: Projet Sales Module.
-    url: "TODO"
+    url: "https://gitlab.com/t04_ta70"
   - title: Projet Ant Farm Simulation.
-    url: "TODO"
+    url: "https://utbm_progower.gitlab.io/lp73_ant_farm_simulation/#/"
+  - title: Projet Beer404.
+  - title: Projet Angular et Rails.
   - title: Projet Food Wars.
-    url: "TODO"
   - title: Projet C Process Manager.
-    url: "TODO"
   - title: Projet MediaFireGhost.
-    url: "TODO"
+
 - name: DUT Informatique
   icon: fa-building-columns
   timeframe: 2017-2019
   institution:
-    name: IUT d'Amiens, département Informatique
+    name: IUT d'Amiens, Département Informatique
     url: https://www.iut-amiens.fr/informatique/
   grade:
     scale: Rang
     achieved: 2
     outOf: 120
   extracurricularActivities:
-  - Participation aux 24h des IUT Informatiques 2019 au Havre au sein d’une équipe (WhileNotFalse) pour représenter l’IUT Informatique d’Amiens.
+  - Participation aux 24h des IUT Informatiques 2019 au Havre au sein d’une équipe (WhileNotFalse) pour représenter l’IUT Informatique d’Amiens (parmi 6 personnes volontaires sur 120).
   - Présentation du jeu réalisé Escape The Vessel au stand de l’IUT Informatique au salon du jeu et du chocolat à Amiens.
   - Participation au forum de l’étudiant à Amiens pour représenter l’IUT Informatique.
   - Présentation du jeu réalisé Escape The Vessel au stand de l’IUT Informatique à la Nuit Intergalactique à la bibliothèque d’Amiens.
-  - Challenge par équipe à la Night Code organisée par l’entreprise Iteracode autour d’un projet informatique commun (19h - 7h).
+  - Challenge par équipe à la Night Code organisé par l’entreprise Iteracode autour d’un projet informatique commun (19h - 7h avec pizzas à volonté).
   publications:
   - title: Projet Escape The Vessel.
-    url: "TODO"
-  - title: Projet Beer404.
-    url: "TODO"
-  - title: Projet Angular et Rails.
-    url: "TODO"
   - title: Projet The Phantom Society.
-    url: "TODO"
   - title: Projet Masterming.
-    url: "TODO"
+  - title: Projet Color Memory.
+
 - name: Bac STI2D spécialité SIN (Systèmes d’Information et Numérique)
   icon: fa-school
   timeframe: 2014-2017
@@ -206,7 +69,7 @@ degrees:
     outOf: Amiens
   publications:
   - title: Projet Jardin Educatif.
-    url: "TODO"
+
 - name: Brevet des collèges
   icon: fa-school
   timeframe: 2010-2014

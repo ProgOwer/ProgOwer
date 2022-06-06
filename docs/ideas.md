@@ -4,10 +4,12 @@
 
 ## Table Of Contents
 
-- [ProgOwer : Ideas](#ProgOwer--ideas)
+- [ProgOwer : Ideas](#progower--ideas)
   - [Table Of Contents](#table-of-contents)
   - [Ideas](#ideas)
 
 ## Ideas
 
-- TODO
+- [Shields.io](https://shields.io/)
+- [Awesome Badges](https://github.com/Envoy-VC/awesome-badges)
+- [Badgen](https://badgen.net/)
