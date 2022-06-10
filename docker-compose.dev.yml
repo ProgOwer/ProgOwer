@@ -2,8 +2,8 @@
 version: '3.6'
 
 services:
-  progower_dev:
-    container_name: '${PROGOWER_NAME}_dev'
+  progower-dev:
+    container_name: '${PROGOWER_NAME}-dev'
     image: ${PROGOWER_IMG}:${PROGOWER_VERSION_DEV}
     build:
       context: .
