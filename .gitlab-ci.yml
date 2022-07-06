@@ -4,9 +4,8 @@ pages:
   script:
   - cd src
   - hugo --minify --environment gitlab
-  - mv public ../
   artifacts:
     paths:
-    - public
+    - src/public
   only:
   - master
