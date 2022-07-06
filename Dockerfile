@@ -7,7 +7,7 @@ WORKDIR /src
 COPY ./src ./
 
 # Production Build
-RUN hugo --minify --environment staging
+RUN hugo --environment staging
 
 
 # Final Stage
