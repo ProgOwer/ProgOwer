@@ -1,2 +1,2 @@
 # GitLab Config
-baseURL: "https://progower.gitlab.io/progower"
+baseURL: "/progower"
