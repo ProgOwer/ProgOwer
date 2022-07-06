@@ -11,4 +11,4 @@ EXPOSE 1313
 ENTRYPOINT []
 
 # Development launch command
-CMD ["hugo", "server", "-D", "-t", "toha", "-w", "--environment", "development"]
+CMD ["hugo", "server", "-D", "-t", "toha", "-w", "-b", "http://localhost:1313"]

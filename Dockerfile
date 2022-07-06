@@ -7,7 +7,7 @@ WORKDIR /src
 COPY ./src ./
 
 # Production Build
-RUN hugo --minify --environment staging
+RUN hugo --minify --gc -b http://localhost:8008
 
 
 # Final Stage

@@ -3,7 +3,7 @@ image: registry.gitlab.com/pages/hugo/hugo_extended:latest
 pages:
   script:
   - cd src
-  - hugo --minify --gc -b https://progower.github.io/ProgOwer/
+  - hugo --minify --gc -b https://progower.gitlab.io/progower/
   - mv public ../
   artifacts:
     paths:
