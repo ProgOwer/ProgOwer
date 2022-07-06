@@ -8,3 +8,11 @@ logo:
   main: images/icon.png
   inverted: images/icon.png
   favicon: images/favicon.png
+
+topNavbar:
+  maxVisibleSections: 6
+
+darkMode:
+  provider: darkreader
+  enable: true
+  default: system

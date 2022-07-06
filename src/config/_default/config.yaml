@@ -6,5 +6,11 @@ title: "ProgOwer"
 languageCode: "fr-fr"
 defaultContentLanguage: fr
 
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+
 # Plugins
 enableEmoji: true

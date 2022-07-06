@@ -20,7 +20,7 @@ jobs:
 
     - name: Build
       working-directory: ./src
-      run: hugo --environment github
+      run: hugo --minify --environment github
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
