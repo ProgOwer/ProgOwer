@@ -10,6 +10,30 @@ section:
 
 experiences:
 - company:
+    name: SII
+    url: https://sii-group.com/en-FR
+    location: Lille (Villeneuve-d'Ascq)
+    overview: |
+      SII est une grande entreprise de prestation en informatique.
+  positions:
+  - designation: "Mission Norauto : Groupe de projet : Connected Workshop"
+    start: 03 Octobre 2022
+    # end: 31 Janvier 2023
+    responsibilities:
+    - Projet d'atelier connecté 4.0 pour les garages Norauto.
+    - Développement d'API et frontend pour réaliser l'extraction de texte d'une image.
+    - Développement d'API et frontend pour détecter des objets dans une image.
+    - Développement d'un script pour tester l'efficacité de nos systèmes.
+    - Travail en équipe avec l'utilisation de merge request, kanban, poker planning, scrum avec le suivi de la TDD et BDD.
+    - Recherche et développement avec évolution des projets en continu.
+  - designation: "Projet en interne : SII Challenge Cup"
+    start: 12 Septembre 2022
+    end: 30 Septembre 2022
+    responsibilities:
+    - Création d'une application pour gérer les challenge de SII.
+    - Application Fullstack avec Frontend, API et base de données.
+
+- company:
     name: Stellantis
     url: https://www.stellantis.com/en
     location: Bessoncourt
@@ -19,7 +43,7 @@ experiences:
       d'établir et de faire respecter les notions importantes de l'informatique et de l'entreprise.
   positions:
   - designation: Alternance dans le service des opérations
-    start: 02 Sept 2019
+    start: 02 Septembre 2019
     end: 31 Aout 2022
     responsibilities:
     - |

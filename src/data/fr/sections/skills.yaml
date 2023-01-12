@@ -100,8 +100,9 @@ skills:
 - name: JavaScript TypeScript
   logo: "/images/skills/ts.png"
   summary: |
-    Maîtrise du JavaScript et du TypeScript avec les frameworks VueJS (CSS avec Vuetify),
-    notions en React (React Admin) et Angular.
+    Maîtrise du JavaScript et du TypeScript avec les frameworks frontend VueJS (2, 3 et CSS avec Vuetify),
+    notions en React (React Admin) et Angular ainsi que les frameworks backend Express (Koa) et NestJS.
+    Maîtrise du framework CommanderJS pour la réalisation de script.
   url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
 
 - name: PHP
@@ -128,6 +129,13 @@ skills:
     Maîtrise des frameworks CSS Materialize, Bootstrap,
     Material Design (Vuetify principalement).
 
+- name: Tests
+  logo: "/images/skills/test.png"
+  summary: |
+    Maîtrise des frameworks de test Pytest, Jest et Vitest.
+    Notions avec Cypress, Cucumber et Wiremock.
+    Utilisation du TDD et BDD.
+
 - name: Autres Langages de programmations
   summary: |
     Notions en C, C#, Godot Script, Rust, Go, R, MatLab, Visual Basic.
@@ -151,7 +159,7 @@ skills:
   logo: "/images/skills/markdown.png"
   summary: |
     Utilisation du Markdown pour la réalisation de documentations diverses.
-    Maîtrise des frameworks web Hugo et Docsify.
+    Maîtrise des frameworks web Hugo, Docsify et MKDocs.
 
 - name: Anglais
   logo: "/images/skills/en.png"

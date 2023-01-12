@@ -18,6 +18,21 @@ buttons:
   filter: "Self"
 
 projects:
+- name: "Projets Norauto : Connected Workshop"
+  role: Groupe de 4
+  timeline: "Octobre 2022 - Janvier 2023"
+  summary: |
+    API, frontend et script pour gérer les données collectées par les centres Norauto
+    et aider les technicien avec des technologies de reconnaissance d'image.
+  tags: ["Enterprise", "Cloud", "Web"]
+
+- name: "Projets SII : Challenge Cup"
+  role: Groupe de 4
+  timeline: "Septembre 2022 - Septembre 2022"
+  summary: |
+    API et frontend pour gérer les challenge à SII.
+  tags: ["Enterprise", "Cloud", "Web"]
+
 - name: Projets Stellantis
   role: Groupe de 2
   timeline: "Septembre 2019 - Aout 2022"

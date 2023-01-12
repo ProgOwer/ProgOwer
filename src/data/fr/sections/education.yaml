@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Diplôme d'ingénierie des systèmes d'information en alternance
+- name: Diplôme d'ingénieur des systèmes d'informations en alternance
   icon: fa-graduation-cap
   timeframe: 2019-2022
   institution:
